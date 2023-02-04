@@ -24,20 +24,20 @@
 					<a href="https://denonbu.fandom.com">DENONBU Wiki</a> contains translations of Denonbu lyrics
 				</li>
 				<li>
-					<a href="https://www.youtube.com/@RedrumXVII">[Youtube]Red's channel</a> contains translated music and videos from Denonbu
+					<a href="https://www.youtube.com/@RedrumXVII">Red's channel</a> contains translated music and videos from Denonbu
 				</li>
 			</ul>
 
 			<h3>4koma</h3>
 			<ul>
 				<li>
-					<a href="https://twitter.com/denonbu_eng/media">4koma translations by [Twitter]@Denonbu_ENG</a>
+					<a href="https://twitter.com/denonbu_eng/media">4koma translations by @Denonbu_ENG</a>
 				</li>
 			</ul>
 			<h3>Novel</h3>
 			<ul>
 				<li>
-					<a href="https://linktr.ee/denonbunovels">Denonbu Novel English translations by [Twitter]@syrupsealpha</a>
+					<a href="https://linktr.ee/denonbunovels">Denonbu Novel English translations by @syrupsealpha</a>
 				</li>
 			</ul>
 		</Post>
