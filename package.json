@@ -26,8 +26,7 @@
   "type": "module",
   "dependencies": {
     "@damillora/plachta": "^2.0.2",
-    "@sveltejs/adapter-auto": "^1.0.2",
-    "@sveltejs/adapter-node": "^1.1.6",
+    "@sveltejs/adapter-cloudflare": "^2.0.1",
     "dayjs": "^1.11.7",
     "howler": "^2.2.3",
     "sass": "^1.57.0"
