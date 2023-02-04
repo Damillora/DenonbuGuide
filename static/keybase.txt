@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/damillora
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nanao.moe
+  * I am damillora (https://keybase.io/damillora) on keybase.
+  * I have a public key ASB1b8gThlePeU5irqkaYNKz_P30KoR83J_mNjjRe_s4YQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120756fc81386578f794e62aea91a60d2b3fcfdf42a847cdc9fe63638d17bfb38610a",
+      "host": "keybase.io",
+      "kid": "0120756fc81386578f794e62aea91a60d2b3fcfdf42a847cdc9fe63638d17bfb38610a",
+      "uid": "c8acd919e656b29d93aacd4022415019",
+      "username": "damillora"
+    },
+    "merkle_root": {
+      "ctime": 1611079819,
+      "hash": "d7f5ff56c12879a36816f9ed5348d00d705c7980a3f9fdb00ab968eeabcbcaac3e06d063f984517e7112be29e6f1780dd6a83e50184ac2c4b2a5f6ea68095301",
+      "hash_meta": "00e615f1394e666502ea83ef17b1fe27a59a43bd0322f149a04ee7761a1994be",
+      "seqno": 18835417
+    },
+    "service": {
+      "entropy": "o3OMtL+GRf/5fXv6hoXIa/Je",
+      "hostname": "nanao.moe",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.2"
+  },
+  "ctime": 1611079827,
+  "expire_in": 504576000,
+  "prev": "7d2c3d8acbed28735fc3194c0cfb83357fff7122f17e0b81268617941f3be534",
+  "seqno": 51,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdW/IE4ZXj3lOYq6pGmDSs/z99CqEfNyf5jY40Xv7OGEKp3BheWxvYWTESpcCM8QgfSw9isvtKHNfwxlMDPuDNX//cSLxfguBJoYXlB875TTEIK4W+LY02+pl/anYYETWAVtlaOHqBxvAhP006jDJGjyzAgHCo3NpZ8RAKtrGN0eg4wbs4L09Gsly0Xnw8trJkg8mCSlBjXTJdlnu+JfThK4CbDzGDTwP7L16gOM4oSAq0k3Zt2Dok1hBA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICzaLIARO+jwfRUn16XcPSJGzIp/yeQi2osYLmGTb/CRo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/damillora
+
+==================================================================

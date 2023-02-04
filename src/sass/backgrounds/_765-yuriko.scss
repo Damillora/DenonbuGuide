@@ -1,0 +1,17 @@
+@mixin bg-765-yuriko() {
+    background-image: url('/images/bg/765-yuriko/bg-sm.jpg');
+    background-size: cover;
+    background-position: right 25% top 20%;
+    @include screen(sm) {
+        background-image: url('/images/bg/765-yuriko/bg-md.jpg');
+    }
+    @include screen(md) {
+        background-image: url('/images/bg/765-yuriko/bg-lg.jpg');
+    }
+    @include screen(lg) {
+        background-image: url('/images/bg/765-yuriko/bg-xl.jpg');
+    }
+    @include screen(xl) {
+        background-image: url('/images/bg/765-yuriko/bg-xxl.jpg')
+    }
+}
