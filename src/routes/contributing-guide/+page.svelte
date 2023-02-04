@@ -36,7 +36,7 @@
 			<h2>Local development setup</h2>
 			<p>This guide is built with SvelteKit. To run it locally, perform the following steps:</p>
 			<pre>
-				git clone &lt;Repo URL&gt;
+				git clone https://github.com/Damillora/DenonbuGuide
 				pnpm install
 				pnpm run dev</pre>
 		</Post>
