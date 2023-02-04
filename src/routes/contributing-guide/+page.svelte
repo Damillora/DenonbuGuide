@@ -13,7 +13,7 @@
 		<Post>
 			<h1>Contributing to This Guide</h1>
 			<p>
-				The source of this guide is available on GitHub. Contributions to the contents of the guide
+				The source of this guide is available <a href="https://github.com/Damillora/DenonbuGuide">on GitHub</a>. Contributions to the contents of the guide
 				is always welcome!
 			</p>
 			<h2>How to contribute</h2>
