@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Damillora's Guide to Denonbu</title>
+	<title>Denonbu Contents - Damillora's Guide to Denonbu</title>
 </svelte:head>
 
 <Container>

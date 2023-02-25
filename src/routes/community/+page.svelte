@@ -5,13 +5,13 @@
 </script>
 
 <svelte:head>
-	<title>Damillora's Guide to Denonbu</title>
+	<title>Denonbu Community - Damillora's Guide to Denonbu</title>
 </svelte:head>
 
 <Container>
 	<Index>
 		<Post>
-			<h1>Denonbu Communities</h1>
+			<h1>Denonbu Community</h1>
 			<p>
 				Denonbu is heavily focused on its communities, allowing Denonbu fans to share and create
 				Denonbu content. This sections contains community resources regarding Denonbu.
@@ -30,6 +30,9 @@
                 </li>
 				<li>
                     <a href="/community/translations">Denonbu Translations</a>
+                </li>
+				<li>
+                    <a href="/community/resources">Denonbu Resources</a>
                 </li>
 			</ul>
 		</Post>

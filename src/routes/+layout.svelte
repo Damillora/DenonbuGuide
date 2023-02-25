@@ -7,8 +7,6 @@
 	import NavDarkMode from '@damillora/plachta/components/Nav/NavDarkMode.svelte';
 	import Footer from '@damillora/plachta/components/Footer/Footer.svelte';
 	import NavigationLoading from '@damillora/plachta/components/NavigationLoading/NavigationLoading.svelte';
-	
-	export const prerender = true;
 
 	let loading = true;
 	navigating.subscribe((x) => (loading = x != null));
