@@ -1,3 +1,5 @@
+export const prerender = true;
+
 import { error } from '@sveltejs/kit';
 import { getPage } from '$lib/markdown/parser';
 
