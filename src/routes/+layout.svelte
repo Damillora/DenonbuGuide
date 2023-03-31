@@ -20,7 +20,7 @@
 		<svelte:fragment slot="nav">
 			<NavMenu label="About Denonbu" url="/about-denonbu" />
 			<NavMenu label="Community" url="/community" />
-			<NavMenu label="Contribute to This Guide" url="/contributing-guide" />
+			<NavMenu label="Contribute to This Guide" url="/contributing" />
 			<NavDarkMode />
 		</svelte:fragment>
 	</Header>
