@@ -1,22 +1,11 @@
-# DenonbuGuide
+# Damillora's Guide to Denonbu
 
-Damillora's Guide to Denonbu!
+A guide to Bandai Namco Entertainment's music-character project "Denonbu" for an English speaking audience.
 
-## Build Setup
+## Contributing
 
-``` bash
-# install dependencies
-$ yarn install
+A contributing guide is available [here](https://denonbu.nanao.moe/contributing).
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+## License
 
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out [Svelte](https://svelte.dev/docs) and [Sapper](https://sapper.svelte.dev/docs) docs.
+This repository is licensed under the [MIT License](LICENSE).
