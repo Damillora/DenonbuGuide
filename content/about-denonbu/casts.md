@@ -4,7 +4,6 @@ workInProgress: true
 ---
 Denonbu casts voice their respective characters, and plays an important role in shaping Denonbu content.
 
-
 ## Akiba: Sotokanda Literature High School
 
 ### Shidomi Yuuka (voice of Hidaka Reina)
@@ -27,7 +26,7 @@ Denonbu casts voice their respective characters, and plays an important role in 
 
 ### Komiya Arisa (voice of Shirokane Aki)
 
-### Shibuya Azuki(voice of Haijima Ginka)
+### Shibuya Azuki (voice of Haijima Ginka)
 
 ## Shibuya: Teion International High School
 
