@@ -4,6 +4,8 @@ title: Denonbu Translations
 
 Denonbu is officially available in Japanese. However, several fans have taken the effort to translate some of the available content into English! This page contains all translation efforts from various groups and people.
 
+Official Denonbu content can found [here](/about-denonbu/contents), while fan-made content can be found [here](/community/fanmade-content)!
+
 ## English
 
 ### Music

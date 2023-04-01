@@ -4,6 +4,8 @@ title: Denonbu Fanmade Content
 
 Denonbu encourages fans to create art and content based on Denonbu. This page lists all Denonbu creations and compilations alongside creators making Denonbu content.
 
+Official Denonbu content can found [here](/about-denonbu/contents), while translated official content can be found [here](/community/translations)!
+
 ## Art
 
 * [Official Denonbu fanart Twitter hashtag ( #電音部美術部)](https://twitter.com/search?q=%20%23%E9%9B%BB%E9%9F%B3%E9%83%A8%E7%BE%8E%E8%A1%93%E9%83%A8)
