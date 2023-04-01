@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@damillora/plachta': ^2.1.2
+  '@damillora/plachta': ^2.1.3
   '@sveltejs/adapter-cloudflare': ^2.2.0
   '@sveltejs/kit': ^1.15.0
   '@typescript-eslint/eslint-plugin': ^4.33.0
@@ -22,7 +22,7 @@ specifiers:
   vite-plugin-markdown: ^2.2.0-2
 
 dependencies:
-  '@damillora/plachta': 2.1.2_typescript@4.9.5
+  '@damillora/plachta': 2.1.3_typescript@4.9.5
   '@sveltejs/adapter-cloudflare': 2.2.0_@sveltejs+kit@1.15.0
   dayjs: 1.11.7
   howler: 2.2.3
@@ -70,8 +70,8 @@ packages:
     resolution: {integrity: sha512-zyRFz9AUS0tbg3/kJ+3zxvp9fl/O9yOJlChih/o86hhOqRMcZVbWefYAvFPidRvYUHM5YTG1wjU1bF9FFckRVg==}
     dev: false
 
-  /@damillora/plachta/2.1.2_typescript@4.9.5:
-    resolution: {integrity: sha512-iy2M5COzEIC0rziKZCpGP/w+MbmHX8T8o13GNBA3O8ys8/ojCCGlSDUbfQTroYJb4JwQLxZ6vV8spgQlmkBQGg==}
+  /@damillora/plachta/2.1.3_typescript@4.9.5:
+    resolution: {integrity: sha512-n+9rwNhQAh3sufjD7QDaT4HvzI0UxYLS8DF/z3q7eQ8zXUGJr66r4SSeBc00Nxt+A1F2xdS0OSrgiQuwtYXcpQ==}
     dependencies:
       '@sveltejs/package': 1.0.2_aswnnyxiuwffgztcffmr7c7eny
       svelte: 3.58.0

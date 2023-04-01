@@ -9,3 +9,5 @@ declare namespace App {
 	// interface Session {}
 	// interface Stuff {}
 }
+
+declare const __LASTMOD__: string;

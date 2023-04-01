@@ -7,6 +7,8 @@
 	import NavDarkMode from '@damillora/plachta/components/Nav/NavDarkMode.svelte';
 	import Footer from '@damillora/plachta/components/Footer/Footer.svelte';
 	import NavigationLoading from '@damillora/plachta/components/NavigationLoading/NavigationLoading.svelte';
+	import LastModified from '$lib/components/LastModified.svelte';
+	import DenonbuFooter from '$lib/components/DenonbuFooter.svelte';
 
 	let loading = true;
 	navigating.subscribe((x) => (loading = x != null));
@@ -29,9 +31,7 @@
 
 	<slot />
 
-	<Footer>
-		<p>Copyright (c) 2023 Damillora and contributors</p>
-	</Footer>
+	<DenonbuFooter />
 </Base>
 
 <style lang="scss" global>

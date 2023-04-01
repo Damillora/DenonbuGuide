@@ -1,0 +1,1 @@
+export const lastModified = __LASTMOD__;
