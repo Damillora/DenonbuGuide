@@ -100,14 +100,18 @@ Maya was born in a temple in the Asakusa area, and raised in a Shinto shrine in 
 
 Reml... is Reml. She's actually batshit insane. She earnestly wishes for peoples' misery. She actually wants to see people suffer, and she loves being hated by others. She also brings along a creature called Pomemori, and she likes inflicting violence on it. Just plain batshit insane.
 
-Also, Reml is one Reml. She is a clone part of "Distributed Autonomous Golem Reml" line of mass-produced clones, based on a person also called Reml. This line of clones has a MusicCrystal as its heart, and can resonate and change in a thousand different ways based on music.
+Clones of her are distributed as part of "Distributed Autonomous Golem Reml" line of mass-produced clones, based on a person also called Reml. This line of clones has a MusicCrystal as its heart, and can resonate and change in a thousand different ways based on music.
 
-## Ikebukuro (upcoming)
+## Ikebukuro: Ikebukuro Kujoin High School
 
-## Shinsaibashi: Shinsaibashi Engei High School (upcoming)
+## Shinsaibashi: Shinsaibashi Engei High School
 
-## Shin Okubo (upcoming)
+## Deep Okubo: Deep Okubo DJ and Dance Academy
 
-## Neo Tokyo (upcoming)
+## Neo Tokyo Tokyo Dennou High School
 
-## Neo Nakano (upcoming)
+## Neo Nakano Nakano Dennou High School
+
+## Daiba: Divergence Academy
+
+## Shimokitazawa: Kitazawa Otobako High School

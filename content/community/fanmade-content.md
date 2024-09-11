@@ -15,4 +15,9 @@ Official Denonbu content can found [here](/about-denonbu/contents), while transl
 * [Search for Denonbu (電音部) in SoundCloud](https://soundcloud.com/search?q=%E9%9B%BB%E9%9F%B3%E9%83%A8)
 * [Denonbu First Anniversary REMIX EP](https://den-on-bu-aniv.tumblr.com/)
 * [Denonbu Second Anniversary REMIX EP](https://den-on-bu-aniv2.tumblr.com/)
-* [IDFRP22 (Denonbu fan-remix project by Indonesian producers)](https://idfrp22.tumblr.com)
+* Indonesian Fan-Remix Project
+    * [IDFRP22](https://idfrp22.tumblr.com)
+    * [RE:VOLTN](https://revoltn.stacknation.id)
+    * [DEPARTURE](https://departure.stacknation.id)
+* [DENONBU-Remix Nation](https://drn-0001.netlify.app)
+* [Universal Denonbu Project Second Anniversary Compilation: Moonrise](https://soundcloud.com/udp_dj/universal-denonbu-project-second-anniversary-compilation-moonrise)

@@ -61,7 +61,7 @@ Official Denonbu novels are available on the [ASOBISTORE Book](https://book.asob
 
 Denonbu Radio is Denonbu's weekly radio program. Usually, new songs will get previewed first on Denonbu Radio before being released worldwide.
 
-Denonbu Radio is streamed on [ASOBISTAGE](https://asobistage.asobistore.jp/event/denonbu_radio/radio)
+Denonbu Radio is streamed on the [Denonbu ASOBICHANNEL page](https://asobichannel.asobistore.jp/channel/denonbu). It was previously streamed on [ASOBISTAGE](https://asobistage.asobistore.jp/event/denonbu_radio/radio).
 
 ## Events
 
@@ -74,3 +74,5 @@ Denonbu-hosted events uses a specific terminology to denote participants in that
 * LIVE: This type of event primarily features Denonbu casts, and will primarily feature live singing performances.
 * PARTY: This type of event primarily features Denonbu music producers, and will primarily feature DJ performances.
 * GAME: This type of event primarily features Denonbu characters, and utilizes Bandai Namco technology to give the impression that the characters are performing themselves.
+
+## Vocal Synth

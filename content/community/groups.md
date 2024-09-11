@@ -2,7 +2,7 @@
 title: Denonbu Groups
 ---
 
-This page lists known groups with Denonbu as a main topic.
+This page lists known chat groups and forums with Denonbu as a main topic.
 
 ## English
 

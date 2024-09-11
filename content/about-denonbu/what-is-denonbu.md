@@ -3,6 +3,9 @@ title: What is Denonbu?
 workInProgress: true
 ---
 Denonbu is an original music-character series created by Bandai Namco under the label and brand "ASOBINOTES". Denonbu was announced during the ASOBINOTES ONLINE FES event on June 28, 2020.
+## What actually is Denonbu?
+
+From the beginning, Denonbu as a series often defies explanation on what it actually is, thanks to the wealth of activities that Denonbu does. Today, the best way to describe Denonbu would be **a group of creators that makes content in a shared setting**. 
 
 ## Why Denonbu?
 
