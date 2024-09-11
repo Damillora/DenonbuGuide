@@ -1,6 +1,6 @@
 <script>
   import { page } from '$app/stores';
-	import Container from '@damillora/plachta/components/Container/Container.svelte';
+	import { Container } from '@damillora/plachta';
 </script>
 
 <svelte:head>

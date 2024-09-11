@@ -1,5 +1,5 @@
 <script>
-	import Footer from '@damillora/plachta/components/Footer/Footer.svelte';
+	import { Footer } from '@damillora/plachta';
 
 	import LastModified from './LastModified.svelte';
 </script>
@@ -16,7 +16,7 @@
 </Footer>
 
 <style lang="scss">
-	@import '@damillora/plachta/styles/global';
+	@import '@damillora/plachta/dist/styles/global';
 
 	.denonbu-footer {
         width: 100%;

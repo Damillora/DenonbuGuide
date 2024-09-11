@@ -1,12 +1,6 @@
 <script>
 	import { navigating } from '$app/stores';
-	import Base from '@damillora/plachta/components/Base/Base.svelte';
-	import Header from '@damillora/plachta/components/Header/Header.svelte';
-	import Hero from '@damillora/plachta/components/Hero/Hero.svelte';
-	import NavMenu from '@damillora/plachta/components/Nav/NavMenu.svelte';
-	import NavDarkMode from '@damillora/plachta/components/Nav/NavDarkMode.svelte';
-	import Footer from '@damillora/plachta/components/Footer/Footer.svelte';
-	import NavigationLoading from '@damillora/plachta/components/NavigationLoading/NavigationLoading.svelte';
+	import { Base, Header, Hero, NavMenu, NavDarkMode, Footer, NavigationLoading } from '@damillora/plachta';
 	import LastModified from '$lib/components/LastModified.svelte';
 	import DenonbuFooter from '$lib/components/DenonbuFooter.svelte';
 

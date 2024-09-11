@@ -1,8 +1,5 @@
 <script>
-	import Container from '@damillora/plachta/components/Container/Container.svelte';
-	import Index from '@damillora/plachta/components/PageTypes/Index.svelte';
-	import Post from '@damillora/plachta/components/PageTypes/Post.svelte';
-	import Notice from '@damillora/plachta/components/Notice/Notice.svelte';
+	import { Container, Index, Post, Notice } from '@damillora/plachta';
 
 	export let data;
 </script>
