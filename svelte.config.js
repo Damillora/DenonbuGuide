@@ -13,6 +13,10 @@ export default {
 			entries: [
 				'/'
 			]
+		},
+		alias: {
+			"$lib": "src/lib",
+			"$lib/*": "src/lib/*",
 		}
 	  }
 };
